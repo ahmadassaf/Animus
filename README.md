@@ -1,5 +1,4 @@
 <div style="text-align:center"><img src="https://github.com/dasilvacontin/animus/raw/master/screenshots/demo.png" width="1191"></div>
-[<img src="http://kerrick.github.io/Mostly-Harmless/images/ss_webstore.png" width="203">][animus-chrome-web-store]
 
 # animus
 
